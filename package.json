@@ -1,0 +1,23 @@
+{
+  "name": "meestermaatje-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/49creator/meestermaatje-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/49creator/meestermaatje-backend/issues"
+  },
+  "homepage": "https://github.com/49creator/meestermaatje-backend#readme",
+  "description": "",
+  "dependencies": {
+    "openai": "^4.96.2"
+  }
+}
